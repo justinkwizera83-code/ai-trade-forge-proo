@@ -1,0 +1,6 @@
+{
+  "name": "AI Trade Forge Terminal",
+  "description": "High-fidelity Binary Options trading signal generator with a real-time interactive asset chart, server-side Gemini AI pattern analyzer, and detailed risk-management feedback loop.",
+  "requestFramePermissions": ["display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
